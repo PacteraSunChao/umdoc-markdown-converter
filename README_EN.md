@@ -87,7 +87,7 @@ Note: Advanced features such as audio transcription and YouTube link parsing req
 .
 ├── launcher.py          # Bootstrap script (creates virtual environment and installs dependencies)
 ├── umdoc.py             # Main application (GUI interface and conversion logic)
-├── README.md            # Project documentation
+├── README_EN.md         # Project documentation
 └── .gitignore           # Git ignore rules
 ```
 
