@@ -1,5 +1,9 @@
 # UMDoc -> Markdown
 
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 > **言語**: [简体中文](README.md) | [English](README_EN.md) | 日本語
 
 WindowsとmacOSの両方で動作するモダンなデスクトップツールです。ほぼすべての一般的なドキュメントを、ワンクリックでクリーンなMarkdownテキストに変換します。
@@ -32,7 +36,7 @@ WindowsとmacOSの両方で動作するモダンなデスクトップツール�
 
 1. リポジトリをクローン
    ```
-   git clone git@github.com:PacteraSunChao/umdoc.git
+   git clone git@github.com:PacteraSunChao/umdoc-markdown-converter.git
    cd umdoc
    ```
 

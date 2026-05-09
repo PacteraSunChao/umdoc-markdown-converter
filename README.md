@@ -1,5 +1,9 @@
 # UMDoc -> Markdown
 
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 > **语言**：简体中文 | [English](README_EN.md) | [日本語](README_JP.md)
 
 一个跨平台（Windows & macOS）的现代桌面工具，可将几乎所有常见文档一键转换为结构清晰的 Markdown 文本。
@@ -36,7 +40,7 @@
 
 1. 克隆仓库
    ```
-   git clone git@github.com:PacteraSunChao/umdoc.git
+   git clone git@github.com:PacteraSunChao/umdoc-markdown-converter.git
    cd umdoc
    ```
 

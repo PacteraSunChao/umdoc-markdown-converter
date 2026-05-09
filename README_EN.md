@@ -1,5 +1,9 @@
 # UMDoc -> Markdown
 
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 > **Language**: [简体中文](README.md) | English | [日本語](README_JP.md)
 
 A modern cross-platform (Windows & macOS) desktop tool that converts almost any common document into clean, structured Markdown with a single click.
@@ -36,7 +40,7 @@ Powered by Microsoft's open-source MarkItDown engine with the [all] extra depend
 
 1. Clone the repository
    ```
-   git clone git@github.com:PacteraSunChao/umdoc.git
+   git clone git@github.com:PacteraSunChao/umdoc-markdown-converter.git
    cd umdoc
    ```
 
