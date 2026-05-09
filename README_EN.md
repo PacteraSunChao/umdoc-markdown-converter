@@ -33,11 +33,15 @@ Powered by Microsoft's open-source MarkItDown engine with the [all] extra depend
 ### Installation and Running
 
 1. Clone the repository
+   ```
    git clone git@github.com:PacteraSunChao/umdoc.git
    cd umdoc
+   ```
 
 2. Run with the launcher (recommended)
+   ```
    python3 launcher.py
+   ```
    The first run creates a virtual environment `app_env` inside the project folder and installs all dependencies (PySide6, markitdown[all], etc.). Subsequent runs launch the main window directly without reinstallation.
 
 3. Or install dependencies manually and run the main program

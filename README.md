@@ -33,11 +33,15 @@
 ### 安装与运行
 
 1. 克隆仓库
+   ```
    git clone git@github.com:PacteraSunChao/umdoc.git
    cd umdoc
+   ```
 
 2. 通过启动器运行（推荐）
+   ```
    python3 launcher.py
+   ```
    首次运行会自动在项目目录创建虚拟环境 app_env，并安装所有依赖（PySide6 和 markitdown[all] 等）。
    之后运行会直接启动主界面，无需重复安装。
 
