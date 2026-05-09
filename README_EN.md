@@ -1,6 +1,6 @@
 # UMDoc -> Markdown
 
-> **Language**: [简体中文](README.md) | English | [日本語](README_ja.md)
+> **Language**: [简体中文](README.md) | English | [日本語](README_JP.md)
 
 A modern cross-platform (Windows & macOS) desktop tool that converts almost any common document into clean, structured Markdown with a single click.
 Powered by Microsoft's open-source MarkItDown engine with the [all] extra dependencies installed, it supports over 30 file formats including Office, PDF, images, audio, ebooks, and more.

@@ -1,6 +1,6 @@
 # UMDoc -> Markdown
 
-> **言語**: [简体中文](README.md) | [English](README_en.md) | 日本語
+> **言語**: [简体中文](README.md) | [English](README_EN.md) | 日本語
 
 WindowsとmacOSの両方で動作するモダンなデスクトップツールです。ほぼすべての一般的なドキュメントを、ワンクリックでクリーンなMarkdownテキストに変換します。
 マイクロソフトがオープンソースで公開しているMarkItDownエンジンをベースに、[all] の全依存関係をインストールしており、Office、PDF、画像、音声、電子書籍など30以上のファイル形式に対応しています。
