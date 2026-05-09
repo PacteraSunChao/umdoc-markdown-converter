@@ -1,5 +1,7 @@
 # UMDoc -> Markdown
 
+> **语言**：简体中文 | [English](README_en.md) | [日本語](README_ja.md)
+
 一个跨平台（Windows & macOS）的现代桌面工具，可将几乎所有常见文档一键转换为结构清晰的 Markdown 文本。
 基于微软开源的 MarkItDown 引擎，并安装了 [all] 全量依赖，支持 Office、PDF、图像、音频、电子书等 30+ 文件格式。
 
@@ -82,11 +84,13 @@
 
 ## 项目结构
 
+```
 .
 ├── launcher.py          # 启动引导器（自动创建虚拟环境并安装依赖）
 ├── umdoc.py             # 主程序（GUI 界面与转换逻辑）
 ├── README.md            # 项目说明
 └── .gitignore           # 版本忽略规则
+```
 
 ## 技术栈
 
